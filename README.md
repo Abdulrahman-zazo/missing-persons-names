@@ -1,8 +1,48 @@
-# React + Vite
+# System for Searching for the Forcibly Disappeared and Detainees
+An open-source project aimed at enabling families to search for their relatives who have been forcibly disappeared or detained in prisons through a simple and effective interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Key Features
 
-Currently, two official plugins are available:
+- **Fast and Simplified Search** with results highlighted using `react-highlight-words`
+- **Clean User Interface** styled with `tailwindcss`
+- **Interactive Data Tables** using `antd` (Ant Design)
+- Support for searching by any part of the name or details
+- Responsive design that works on all devices
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+
+## ⚡ Quick Start
+
+### Prerequisites
+- Node.js (version 16.x or higher)
+- npm (version 8.x or higher)
+
+## 📞 Conntact us
+Email: abdulrahmanzazo@outlook.com
+Linkedin: https://www.linkedin.com/in/abd-alrahman-zazo-277405249/
+
+### Installation Steps
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/project-name.git
+
+# 2. Navigate to the folder
+cd project-name
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the application (development mode)
+npm start
+
+
+للمساهمة بالبيانات أو الاستفسارات الأمنية:
+- البريد: contact@example.com
+- تويتر: [@ProjectName](https://twitter.com/ProjectName)
+ ترجمة للانكليزي
+اريد وضعه بنفس الطريقة لكن باللغة الانكليزية بدون اضافات
