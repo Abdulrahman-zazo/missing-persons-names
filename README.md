@@ -38,11 +38,5 @@ cd project-name
 npm install
 
 # 4. Run the application (development mode)
-npm start
+npm run dev
 
-
-للمساهمة بالبيانات أو الاستفسارات الأمنية:
-- البريد: contact@example.com
-- تويتر: [@ProjectName](https://twitter.com/ProjectName)
- ترجمة للانكليزي
-اريد وضعه بنفس الطريقة لكن باللغة الانكليزية بدون اضافات
